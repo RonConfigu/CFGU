@@ -1,0 +1,18 @@
+{
+  "FOO": {
+    "type": "String",
+    "default": "foo",
+    "description": "string example variable"
+  },
+  "BAR": {
+    "type": "RegEx",
+    "pattern": "^(foo|bar|baz)$",
+    "default": "bar",	
+    "description": "regex example variable"
+  },
+  "BAZ": {
+    "type": "String",
+    "template": "{{FOO}} - {{BAR}}",
+    "description": "template example variable"
+  }
+}
