@@ -1,6 +1,6 @@
 {
   "FOO": {
-    "type": "String",
+    "type": "Number",
     "default": "foo",
     "description": "string example variable"
   },
