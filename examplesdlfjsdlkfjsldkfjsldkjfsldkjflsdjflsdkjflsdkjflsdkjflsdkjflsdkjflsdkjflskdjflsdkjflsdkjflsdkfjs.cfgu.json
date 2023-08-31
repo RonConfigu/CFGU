@@ -7,7 +7,6 @@
   "BAR": {
     "type": "RegEx",
     "pattern": "^(foo|bar|baz)$",
-    "default": "bar",	
     "description": "regex example variable"
   },
   "BAZ": {
