@@ -1,5 +1,5 @@
 {
-  "FOO": {
+  "FOO1": {
     "type": "String",
     "default": "foo",
     "description": "string example variable"
