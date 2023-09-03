@@ -1,4 +1,4 @@
-{
+{ת
   "GREETING": {
     "type": "RegEx",
     "pattern": "^(hello|hey|welcome|salute|bonjour)$",
