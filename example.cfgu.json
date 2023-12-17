@@ -1,7 +1,7 @@
 {
   "FOO": {
     "type": "String",
-    "default": "fdo",
+    "default": "fsdfsdfdo",
     "description": "string example variable"
   },
   "BAR": {
