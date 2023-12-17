@@ -1,7 +1,7 @@
 {
   "FOO": {
     "type": "String",
-    "default": "flodo",
+    "default": "fdo",
     "description": "string example variable"
   },
   "BAR": {
