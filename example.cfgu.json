@@ -1,7 +1,7 @@
 {
-  "FOO": {s
+  "FOO": {
     "type": "String",
-    "default": "foo",
+    "default": "flodo",
     "description": "string example variable"
   },
   "BAR": {
